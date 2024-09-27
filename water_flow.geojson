@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [-122.4194, 37.7749],
+            [-121.8907, 37.3382],
+            [-121.4944, 38.5816]
+          ]
+        },
+        "properties": {
+          "name": "Example River",
+          "flowSpeed": "5 m/s"
+        }
+      }
+    ]
+  }
+  
